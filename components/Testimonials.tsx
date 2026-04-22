@@ -1,6 +1,6 @@
 "use client";
 
-import { TestimonialsColumn } from "@/components/ui/testimonials-columns-1";
+import { TestimonialsColumn } from "@/components/TestimonialsColumns";
 import { TESTIMONIAL_COLUMNS } from "@/lib/constants";
 import { motion } from "motion/react";
 
